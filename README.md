@@ -122,6 +122,11 @@ Provincial Budget % Allocation
 
 These KPIs link infrastructure spending directly to measurable public service outcomes.
 
+## License & Copyright
+
+© 2026 ALX Africa. All Rights Reserved.  
+Unauthorized copying, redistribution, or use of this repository or its contents is strictly prohibited.
+
 
 
 
